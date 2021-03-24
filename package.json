@@ -1,0 +1,31 @@
+{
+  "name": "cherry-lite",
+  "version": "1.0.0",
+  "description": "This is a lite version of ch$rry with less features then the real one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clapann/cherry-lite.git"
+  },
+  "author": "clap#0007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clapann/cherry-lite/issues"
+  },
+  "homepage": "https://github.com/clapann/cherry-lite#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.21.1",
+    "canvas": "^2.7.0",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "parse-ms": "^2.1.0",
+    "request": "^2.88.2",
+    "sourcebin": "^4.1.2"
+  }
+}
